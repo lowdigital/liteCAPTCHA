@@ -1,0 +1,18 @@
+[
+  {
+    "image": "/captcha/image1.jpg",
+    "title": "Cat"
+  },
+  {
+    "image": "/captcha/image2.jpg",
+    "title": "Dog"
+  },
+  {
+    "image": "/captcha/image3.jpg",
+    "title": "Bird"
+  },
+  {
+    "image": "/captcha/image4.jpg",
+    "title": "Fish"
+  }
+]
