@@ -1,3 +1,4 @@
+![DEMO](demo.jpg)
 
 # liteCAPTCHA
 
