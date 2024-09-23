@@ -83,18 +83,6 @@ The `captcha_data.json` file contains the following structure:
 - **image**: The relative path to the image.
 - **title**: The category or label that the image represents.
 
-## Example
-
-An example of integrating the CAPTCHA into a form:
-
-```html
-<form action="submit.php" method="POST">
-    <!-- Other form fields -->
-    <?php include 'captcha.php'; ?>
-    <button type="submit">Submit</button>
-</form>
-```
-
 ## License
 
 This project is licensed under the MIT License.
