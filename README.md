@@ -46,15 +46,7 @@
 3. **Place Your Images**  
    Ensure your image files are correctly placed in the `/captcha/` directory, corresponding to the paths defined in `captcha_data.json`.
 
-4. **Integrate with Your Form**  
-   Include the CAPTCHA in your form by embedding the `captcha.php` script:
-   ```php
-   <?php include 'captcha.php'; ?>
-   ```
-
-   The CAPTCHA will display the images and prompt users to select the correct category.
-
-5. **Validate User Input**  
+4. **Validate User Input**  
    Use `index.php` to validate the user's selection. The script checks whether the user correctly identified the category (e.g., selecting a cat image when prompted).
 
 ## Usage
